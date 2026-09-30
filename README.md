@@ -44,28 +44,28 @@ The platform provides separate interfaces and functionalities for public users, 
 **Deployment:** Vercel, Render
 
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
--Provide centralized scholarship information for students
--Make scholarship searching easier and more organized
--Help students understand scholarship eligibility requirements
--Allow students to compare multiple scholarships
--Help students identify missing requirements and documents
--Support scholarship preparation through personalized guidance
--Help students track deadlines,email notifications and important scholarship activities
--Provide administrators with tools to manage scholarship data efficiently
+- Provide centralized scholarship information for students
+- Make scholarship searching easier and more organized
+- Help students understand scholarship eligibility requirements
+- Allow students to compare multiple scholarships
+- Help students identify missing requirements and documents
+- Support scholarship preparation through personalized guidance
+- Help students track deadlines, email notifications and important scholarship activities
+- Provide administrators with tools to manage scholarship data efficiently
 
-👥 User Roles
+## 👥 User Roles
 
-**Public User** - Browse, search, filter and compare scholarships.
-**Student**	- Manage profile, check eligibility, track scholarships,  documents and deadlines.
-**Admin** - Manage scholarships, users, countries, universities, sources and deadlines.
+- **Public User** - Browse, search, filter and compare scholarships
+- **Student** - Manage profile, check eligibility, and track scholarships, documents and deadlines
+- **Admin** - Manage scholarships, users, countries, universities, sources and deadlines
 
-🚀 Future Scope
+## 🚀 Future Scope
 
--AI-based scholarship recommendations
--More advanced student–scholarship matching
--Integration with verified scholarship data sources
--Advanced analytics and reporting
--Mobile application
--Training section
+- AI-based scholarship recommendations
+- More advanced student-scholarship matching
+- Integration with verified scholarship data sources
+- Advanced analytics and reporting
+- Mobile application
+- Training section
