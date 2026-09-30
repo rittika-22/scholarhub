@@ -45,6 +45,7 @@ The platform provides separate interfaces and functionalities for public users, 
 
 
 🎯 Project Objectives
+
 -Provide centralized scholarship information for students
 -Make scholarship searching easier and more organized
 -Help students understand scholarship eligibility requirements
@@ -55,11 +56,13 @@ The platform provides separate interfaces and functionalities for public users, 
 -Provide administrators with tools to manage scholarship data efficiently
 
 👥 User Roles
+
 **Public User** - Browse, search, filter and compare scholarships.
 **Student**	- Manage profile, check eligibility, track scholarships,  documents and deadlines.
 **Admin** - Manage scholarships, users, countries, universities, sources and deadlines.
 
 🚀 Future Scope
+
 -AI-based scholarship recommendations
 -More advanced student–scholarship matching
 -Integration with verified scholarship data sources
